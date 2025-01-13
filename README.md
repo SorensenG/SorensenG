@@ -27,7 +27,7 @@ Estudante de **Sistemas de Informação** e apaixonado por tecnologia, desenvolv
 ### **Linguagens de Programação:**  
 - **C**.  
 - **Python** (focado em automação e ciência de dados).  
-- **JavaScript**.  
+- **JavaScript** (Puro e React).  
 
 ### **Ciência de Dados:**  
 - Manipulação de dados com **Python** (pandas, NumPy).  
