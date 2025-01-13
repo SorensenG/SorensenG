@@ -64,8 +64,3 @@ Estudante de **Sistemas de Informação** e apaixonado por tecnologia, desenvolv
 
 <img align="right" height="150" src="https://media1.tenor.com/m/ua_hWLSrTy4AAAAd/obito-sharingan.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/SorensenG/SorensenG/output/snake.svg" alt="Snake animation" />
-
-###
