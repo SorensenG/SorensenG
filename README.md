@@ -7,9 +7,9 @@ Estudante de **Sistemas de Informação** e apaixonado por tecnologia, desenvolv
 ## 🎯 Habilidades Técnicas
 
 ### **Linguagens de Programação:**  
-- **C** (avançado).  
+- **C**.  
 - **Python** (focado em automação e ciência de dados).  
-- **JavaScript** (iniciante em desenvolvimento web).  
+- **JavaScript**.  
 
 ### **Ciência de Dados:**  
 - Manipulação de dados com **Python** (pandas, NumPy).  
