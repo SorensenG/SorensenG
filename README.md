@@ -2,7 +2,7 @@
 
 > Estudante de **Sistemas de Informação** na Unicamp — apaixonado por desenvolvimento de software, backend e arquitetura de sistemas.
 
-Atualmente atuo como **desenvolvedor backend** na empresa júnior **Atria Jr.**, onde tenho evoluído minhas habilidades técnicas e de liderança como **Gerente de Projetos**. Sou movido por desafios que me permitem aplicar conhecimentos práticos e crescer como profissional de tecnologia.
+Atualmente atuo como **desenvolvedor backend** na empresa júnior **Atria Jr.**, onde tenho evoluído minhas habilidades técnicas. Sou movido por desafios que me permitem aplicar conhecimentos práticos e crescer como profissional de tecnologia.
 
 ---
 
