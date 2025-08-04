@@ -46,7 +46,6 @@ Atualmente atuo como **desenvolvedor backend** na empresa júnior **Atria Jr.**,
 - Modelagem preditiva com Scikit-learn
 
 ### 🛠 **Outros conhecimentos**
-- Programação em C (estruturas, ponteiros, recursão, arquivos)
 - Engenharia de Requisitos e Métricas de Software
 - Modelagem UML (caso de uso, atividades, classes)
 - Testes unitários e análise de cobertura
