@@ -174,7 +174,6 @@ data_stack = {
   
   ### ⭐ Obrigado pela visita! 
   
-  ![Visitor Count](https://profile-counter.glitch.me/SorensenG/count.svg)
   
   ---
   
