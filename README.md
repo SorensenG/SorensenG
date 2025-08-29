@@ -142,27 +142,6 @@ data_stack = {
 
 ---
 
-## 🏆 Conquistas & Certificações
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=SorensenG&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=projeto1&theme=tokyonight)](https://github.com/SorensenG/projeto1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=projeto2&theme=tokyonight)](https://github.com/SorensenG/projeto2)
-
-</div>
-
----
-
 ## 📚 Metodologias & Soft Skills
 
 <div align="center">
@@ -176,28 +155,10 @@ data_stack = {
 
 </div>
 
----
-
-## 🎯 Objetivos 2025
-
-- [ ] 🚀 **Contribuir** para projetos open source
-- [ ] ☁️ **Certificação** em AWS ou Azure
-- [ ] 🐳 **Dominar** Docker e Kubernetes
-- [ ] 🤖 **Explorar** IA e Machine Learning
-- [ ] 📱 **Desenvolver** aplicações mobile
-- [ ] 🎤 **Palestrar** em eventos de tecnologia
-
----
 
 ## 💬 Vamos Conectar!
 
 <div align="center">
-
-**💡 Sempre aberto para discutir:**
-- 🔥 Novas tecnologias e tendências
-- 🏗️ Arquitetura de software
-- 📈 Oportunidades de colaboração
-- ☕ Bate-papo sobre desenvolvimento
 
 **📫 Como me encontrar:**
 
@@ -212,7 +173,6 @@ data_stack = {
 <div align="center">
   
   ### ⭐ Obrigado pela visita! 
-  **Se você chegou até aqui, que tal dar uma ⭐ nos meus repositórios?** 😄
   
   ![Visitor Count](https://profile-counter.glitch.me/SorensenG/count.svg)
   
