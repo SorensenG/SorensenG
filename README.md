@@ -85,7 +85,7 @@ const backend = {
 }
 ```
 
-**🔥 Especialidades:**
+** Especialidades:**
 - APIs REST robustas e escaláveis
 - Arquitetura em camadas (Controllers, Services, Repositories)
 - Padrões de design (Factory, Repository, DTO)
@@ -106,7 +106,7 @@ data_stack = {
 }
 ```
 
-**📈 Competências:**
+** Competências:**
 - Manipulação e limpeza de dados
 - Análise exploratória de dados (EDA)
 - Modelagem preditiva
