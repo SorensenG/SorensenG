@@ -1,4 +1,4 @@
-# 🚀 Gabriel Sorensen | Full Stack Developer
+# Gabriel Sorensen | Full Stack Developer
 
 <div align="center">
   
