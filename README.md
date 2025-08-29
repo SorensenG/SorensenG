@@ -24,12 +24,6 @@
 
 Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Minha experiência abrange desde o desenvolvimento de APIs REST até modelagem de dados complexos. Adoro trabalhar em equipe e sempre busco aplicar as melhores práticas de desenvolvimento.
 
-**Principais valores:**
-- 🔍 **Qualidade de código** acima de tudo
-- 📈 **Aprendizado contínuo** é essencial  
-- 🤝 **Colaboração** gera os melhores resultados
-- 🎯 **Foco no usuário** em cada decisão
-
 </details>
 
 ---
