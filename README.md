@@ -2,6 +2,9 @@
 
 <div align="center">
   
+  <!-- Header Image com textura -->
+  <img src="https://via.placeholder.com/1200x200/0d1117/9146ff?text=Gabriel+Sorensen+%7C+Full+Stack+Developer" alt="Gabriel Sorensen Header" width="100%"/>
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+Unicamp;Desenvolvedor+backend+na+Atria+Jr)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sorensen)
@@ -85,7 +88,7 @@ const backend = {
 }
 ```
 
-** Especialidades:**
+**Especialidades:**
 - APIs REST robustas e escaláveis
 - Arquitetura em camadas (Controllers, Services, Repositories)
 - Padrões de design (Factory, Repository, DTO)
@@ -106,7 +109,7 @@ data_stack = {
 }
 ```
 
-** Competências:**
+**Competências:**
 - Manipulação e limpeza de dados
 - Análise exploratória de dados (EDA)
 - Modelagem preditiva
@@ -142,6 +145,17 @@ data_stack = {
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=nome-do-seu-projeto-principal&theme=tokyonight)](https://github.com/SorensenG/nome-do-seu-projeto-principal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=outro-projeto-interessante&theme=tokyonight)](https://github.com/SorensenG/outro-projeto-interessante)
+
+</div>
+
+---
+
 ## 📚 Metodologias & Soft Skills
 
 <div align="center">
@@ -155,6 +169,33 @@ data_stack = {
 
 </div>
 
+---
+
+## 🌟 Conquistas & Certificações
+
+- 🎓 **Sistemas de Informação** - UNICAMP (em andamento)
+- 💼 **Desenvolvedor Backend** - Atria Jr.
+- 🏆 **Projetos entregues com sucesso** desde 2022
+- 📈 **Contribuições ativas** na comunidade open source
+
+---
+
+## 📈 Estatísticas da Semana
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🎮 Quando não estou codando...
+
+- 🎵 Explorando novas tecnologias e frameworks
+- 📚 Lendo sobre arquitetura de software e design patterns  
+- 🎯 Contribuindo para projetos open source
+- 💡 Mentoring outros desenvolvedores júniores
+- 🎲 Jogando e descobrindo inspiração para UX/UI
+
+---
 
 ## 💬 Vamos Conectar!
 
@@ -166,17 +207,25 @@ data_stack = {
 [![Email](https://img.shields.io/badge/Email-g.soren.sen2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.soren.sen2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-bielll.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielll.png/)
 
+**💼 Aberto para oportunidades de:**
+- Desenvolvimento Backend
+- Arquitetura de Sistemas  
+- Consultoria Técnica
+- Projetos Open Source
+
 </div>
 
 ---
 
 <div align="center">
   
-  ### ⭐ Obrigado pela visita! 
+  <!-- Footer Image com textura -->
+  <img src="assets/footer-gabriel-sorensen.svg" alt="Footer" width="100%"/>
   
-  
-  ---
-  
-  *"Code is poetry written in logic"* 💻✨
-  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SorensenG&color=9146ff&style=for-the-badge" alt="Profile Views"/>
 </div>
