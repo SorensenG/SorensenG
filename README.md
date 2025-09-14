@@ -207,19 +207,7 @@ data_stack = {
 
 ---
 
-<div align="center">
-  
+<<div align="center">
   <!-- Footer Image com textura -->
-  <img src="assets/footer-gabriel-sorensen.svg" alt="Footer" width="100%"/>
-  
-</div>
-
----
-
-<div align="center">
-  <!-- Contador de visualizações de perfil -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=SorensenG&color=9146ff&style=for-the-badge" 
-    alt="Profile Views" 
-  />
+  <img src="https://raw.githubusercontent.com/SorensenG/<repo-name>/main/assets/footer-gabriel-sorensen.svg" alt="Footer" width="100%"/>
 </div>
