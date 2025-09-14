@@ -161,12 +161,8 @@ data_stack = {
 
 ---
 
-## 🌟 Conquistas & Certificações
-
 - 🎓 **Sistemas de Informação** - UNICAMP (em andamento)
 - 💼 **Desenvolvedor Backend** - Atria Jr.
-- 🏆 **Projetos entregues com sucesso** desde 2022
-- 📈 **Contribuições ativas** na comunidade open source
 
 ---
 
@@ -177,17 +173,6 @@ data_stack = {
 
 ---
 
-## 🎮 Quando não estou codando...
-
-- 🎵 Explorando novas tecnologias e frameworks
-- 📚 Lendo sobre arquitetura de software e design patterns  
-- 🎯 Contribuindo para projetos open source
-- 💡 Mentoring outros desenvolvedores júniores
-- 🎲 Jogando e descobrindo inspiração para UX/UI
-
----
-
-## 💬 Vamos Conectar!
 
 <div align="center">
 
@@ -197,13 +182,7 @@ data_stack = {
 [![Email](https://img.shields.io/badge/Email-g.soren.sen2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.soren.sen2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-bielll.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielll.png/)
 
-**💼 Aberto para oportunidades de:**
-- Desenvolvimento Backend
-- Arquitetura de Sistemas  
-- Consultoria Técnica
-- Projetos Open Source
 
-</div>
 
 ---
 
