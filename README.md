@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Header Image com textura -->
-  <img src="https://via.placeholder.com/1200x200/0d1117/9146ff?text=Gabriel+Sorensen+%7C+Full+Stack+Developer" alt="Gabriel Sorensen Header" width="100%"/>
+  <img src="assets/header-gabriel-sorensen.svg" alt="Gabriel Sorensen Header" width="100%"/>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+Unicamp;Desenvolvedor+backend+na+Atria+Jr)
 
@@ -20,14 +20,6 @@
 💡 **Desenvolvedor Backend** com foco em **arquitetura de sistemas** e **performance**  
 🎓 Cursando **Sistemas de Informação** na **Unicamp**  
 🏢 Atualmente desenvolvendo na **Atria Jr.**  
-⚡ Transformando ideias em código desde 2022  
-
-<details>
-<summary>🌟 <strong>Ver mais sobre minha jornada</strong></summary>
-
-Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Minha experiência abrange desde o desenvolvimento de APIs REST até modelagem de dados complexos. Adoro trabalhar em equipe e sempre busco aplicar as melhores práticas de desenvolvimento.
-
-</details>
 
 ---
 
