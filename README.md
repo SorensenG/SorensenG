@@ -140,26 +140,13 @@ data_stack = {
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=nome-do-seu-projeto-principal&theme=tokyonight)](https://github.com/SorensenG/nome-do-seu-projeto-principal)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=outro-projeto-interessante&theme=tokyonight)](https://github.com/SorensenG/outro-projeto-interessante)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=outro-projeto-interessante&theme=tokyonight)]([https://github.com/SorensenG/outro-projeto-interessante](https://github.com/SorensenG/Sistema-R4M))
 
 </div>
 
 ---
 
-## 📚 Metodologias & Soft Skills
 
-<div align="center">
-
-| 🚀 **Metodologias Ágeis** | 🧠 **Soft Skills** | 🔧 **Engenharia** |
-|:-:|:-:|:-:|
-| Scrum & Kanban | Liderança técnica | Arquitetura de software |
-| Sprint Planning | Comunicação clara | Modelagem UML |
-| Daily Standups | Trabalho em equipe | Testes unitários |
-| Retrospectivas | Resolução de problemas | Análise de requisitos |
-
-</div>
-
----
 
 - 🎓 **Sistemas de Informação** - UNICAMP (em andamento)
 - 💼 **Desenvolvedor Backend** - Atria Jr.
