@@ -207,7 +207,7 @@ data_stack = {
 
 ---
 
-<<div align="center">
+<div align="center">
   <!-- Footer Image com textura -->
-  <img src="https://raw.githubusercontent.com/SorensenG/<repo-name>/main/assets/footer-gabriel-sorensen.svg" alt="Footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SorensenG/SorensenG/main/assets/footer-gabriel-sorensen.svg" alt="Footer" width="100%"/>
 </div>
