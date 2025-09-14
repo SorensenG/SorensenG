@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Header Image com textura -->
-  <img src="SorensenG/blob/main/assets/header-gabriel-sorensen.svg" alt="Gabriel Sorensen Header" width="100%"/>
+  <img src="assets/header-gabriel-sorensen.svg" alt="Gabriel Sorensen Header" width="100%"/>
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+na+Unicamp;Desenvolvedor+backend+na+Atria+Jr)
 
