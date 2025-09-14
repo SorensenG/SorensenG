@@ -217,5 +217,9 @@ data_stack = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SorensenG&color=9146ff&style=for-the-badge" alt="Profile Views"/>
+  <!-- Contador de visualizações de perfil -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=SorensenG&color=9146ff&style=for-the-badge" 
+    alt="Profile Views" 
+  />
 </div>
