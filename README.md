@@ -13,11 +13,10 @@
 
 ---
 
-## 🎯 Sobre Mim
 
-💡 **Desenvolvedor Backend** com foco em **arquitetura de sistemas** e **performance**  
-🎓 Cursando **Sistemas de Informação** na **Unicamp**  
-🏢 Atualmente desenvolvendo na **Atria Jr.**  
+ **desenvolvedor full stack** com foco em backend
+ Cursando **Sistemas de Informação** na **Unicamp**  
+ Atualmente desenvolvendo na **Atria Jr.**  
 
 ---
 
