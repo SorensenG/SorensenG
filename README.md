@@ -1,4 +1,4 @@
-a<div align="center">
+<div align="center">
   <!-- Header Image com textura -->
   <img src="assets/header-gabriel-sorensen.svg" alt="Gabriel Sorensen Header" width="100%"/>
 
