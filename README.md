@@ -137,13 +137,6 @@ data_stack = {
 </div>
 ---
 
-
-
-- 🎓 **Sistemas de Informação** - UNICAMP (em andamento)
-- 💼 **Desenvolvedor Backend** - Atria Jr.
-
----
-
 <div align="center">
 
 ** Onde me encontrar:**
