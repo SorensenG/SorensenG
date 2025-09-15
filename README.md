@@ -135,18 +135,6 @@ data_stack = {
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SorensenG&theme=tokyo-night&hide_border=true)
   
 </div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=nome-do-seu-projeto-principal&theme=tokyonight)](https://github.com/SorensenG/nome-do-seu-projeto-principal)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SorensenG&repo=outro-projeto-interessante&theme=tokyonight)]([https://github.com/SorensenG/outro-projeto-interessante](https://github.com/SorensenG/Sistema-R4M))
-
-</div>
-
 ---
 
 
@@ -156,17 +144,9 @@ data_stack = {
 
 ---
 
-## 📈 Estatísticas da Semana
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-
 <div align="center">
 
-**📫 Como me encontrar:**
+** Onde me encontrar:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Sorensen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sorensen)
 [![Email](https://img.shields.io/badge/Email-g.soren.sen2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.soren.sen2004@gmail.com)
