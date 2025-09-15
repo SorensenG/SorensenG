@@ -135,11 +135,11 @@ data_stack = {
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SorensenG&theme=tokyo-night&hide_border=true)
   
 </div>
----
+
 
 <div align="center">
 
-** Onde me encontrar:**
+Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Sorensen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sorensen)
 [![Email](https://img.shields.io/badge/Email-g.soren.sen2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.soren.sen2004@gmail.com)
