@@ -14,9 +14,9 @@
 ---
 
 
- **desenvolvedor full stack** com foco em backend
- Cursando **Sistemas de Informação** na **Unicamp**  
- Atualmente desenvolvendo na **Atria Jr.**  
+ -**Desenvolvedor full stack** com foco em backend
+ -Cursando **Sistemas de Informação** na **Unicamp**  
+ -Atualmente desenvolvendo na **Atria Jr.**  
 
 ---
 
