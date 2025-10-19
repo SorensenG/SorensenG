@@ -1,15 +1,6 @@
 <div align="center">
   <img src="assets/header-gabriel-sorensen.svg" alt="Gabriel Sorensen Header" width="100%"/>
-  
-  <br/><br/>
-  
-  
-  <img src="https://komarev.com/ghpvc/?username=SorensenG&color=9146FF&style=for-the-badge&label=VISUALIZAÇÕES"/>
-  
 </div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 const gabriel = {
 role: "Full Stack Developer",
