@@ -3,17 +3,6 @@
   
   <br/><br/>
   
-  <a href="https://www.linkedin.com/in/gabriel-sorensen">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27"/>
-  </a>
-  <a href="mailto:g.soren.sen2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
-  </a>
-  <a href="https://www.instagram.com/bielll.png/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27"/>
-  </a>
-  
-  <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=SorensenG&color=9146FF&style=for-the-badge&label=VISUALIZAÇÕES"/>
   
@@ -41,8 +30,6 @@ interests: ["Clean Architecture", "APIs REST", "Data Science", "Cloud Computing"
 learning: ["Microservices", "DevOps", "System Design"],
 funFact: "Transformo café em código limpo e escalável ☕→💻"
 };
-
-text
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -113,7 +100,6 @@ authentication: "JWT + Refresh Token",
 architecture: "Clean Architecture"
 }
 
-text
 
 **Core Skills:**
 - 🔹 Design e desenvolvimento de APIs REST
@@ -136,7 +122,6 @@ data_engineering = {
 "analytics": "Exploratory Data Analysis"
 }
 
-text
 
 **Competências:**
 - 🔹 Manipulação e limpeza de datasets
