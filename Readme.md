@@ -11,9 +11,6 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Sobre Mim
-
 const gabriel = {
 role: "Full Stack Developer",
 focus: "Backend Engineering",
@@ -27,13 +24,12 @@ company: "Atria Jr.",
 position: "Backend Developer"
 },
 interests: ["Clean Architecture", "APIs REST", "Data Science", "Cloud Computing"],
-learning: ["Microservices", "DevOps", "System Design"],
-funFact: "Transformo café em código limpo e escalável ☕→💻"
+learning: ["Microservices", "DevOps", "System Design"]
 };
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -82,7 +78,7 @@ funFact: "Transformo café em código limpo e escalável ☕→💻"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Áreas de Expertise
+## Stacks Favoritas
 
 <table>
 <tr>
@@ -102,12 +98,12 @@ architecture: "Clean Architecture"
 
 
 **Core Skills:**
-- 🔹 Design e desenvolvimento de APIs REST
-- 🔹 Arquitetura em camadas escalável
-- 🔹 Padrões de design (Factory, Repository, DTO)
-- 🔹 Autenticação e autorização segura
-- 🔹 Otimização de queries e performance
-- 🔹 Desenvolvimento Java com Spring Boot
+Design e desenvolvimento de APIs REST
+Arquitetura em camadas escalável
+Padrões de design (Factory, Repository, DTO)
+Autenticação e autorização segura
+Otimização de queries e performance
+Desenvolvimento Java com Spring Boot
 
 </td>
 <td width="50%" valign="top">
@@ -124,11 +120,11 @@ data_engineering = {
 
 
 **Competências:**
-- 🔹 Manipulação e limpeza de datasets
-- 🔹 Análise exploratória de dados (EDA)
-- 🔹 Modelagem preditiva e ML
-- 🔹 Visualização de dados interativa
-- 🔹 ETL e pipelines de dados
+Manipulação e limpeza de datasets
+Análise exploratória de dados (EDA)
+Modelagem preditiva e ML
+Visualização de dados interativa
+ETL e pipelines de dados
 
 </td>
 </tr>
@@ -161,12 +157,9 @@ data_engineering = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="center">
-  
-  **📫 Estou sempre aberto a novos projetos, colaborações e oportunidades!**
-  
   <br/>
   
   <a href="https://www.linkedin.com/in/gabriel-sorensen">
