@@ -17,13 +17,9 @@ position: "Backend Developer"
 interests: ["Clean Architecture", "APIs REST", "Data Science", "Cloud Computing"],
 learning: ["Microservices", "DevOps", "System Design"]
 };
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Tech Stack
-
 <div align="center">
-
 ### Linguagens
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -33,7 +29,6 @@ learning: ["Microservices", "DevOps", "System Design"]
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </div>
-
 ### Backend & Frameworks
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
