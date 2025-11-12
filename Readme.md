@@ -88,7 +88,7 @@
 
 <div align="center">  
 <h3>🔧 Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,python,express,fastify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,python,express,fastify,php&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Clean_Architecture-Expert-9D4EDD?style=flat-square&logo=architecture&logoColor=white"/>
 </div>
