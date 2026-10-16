@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Sorensen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
@@ -195,3 +195,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+](https://html.onlineviewer.net)
