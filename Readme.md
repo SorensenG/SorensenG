@@ -45,9 +45,6 @@ Information Systems student at **UNICAMP** and undergraduate researcher in **LLM
 </div>
 
 <br/>
-
-### 🧭 Learning & research
-
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
