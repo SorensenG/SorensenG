@@ -28,14 +28,12 @@
 
 <br/>
 
-### 👋 About me
 
 Backend developer and **SDE Intern at Amazon**, working with **Java and AWS**.  
 Information Systems student at **UNICAMP** and undergraduate researcher in **LLMs for software testing**.
 
 <br/>
 
-### ⚡ Tech stack
 
 <div align="center">
 
